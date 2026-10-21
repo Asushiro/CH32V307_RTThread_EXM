@@ -1,0 +1,101 @@
+################################################################################
+# MRS Version: 2.4.0
+# Automatically-generated file. Do not edit!
+################################################################################
+
+S_DEPS :=
+S_UPPER_DEPS :=
+ASM_DEPS :=
+ASM_UPPER_DEPS :=
+C_DEPS :=
+OBJS :=
+DIR_OBJS :=
+DIR_DEPS :=
+DIR_EXPANDS :=
+ELF_SRCS :=
+OBJ_SRCS :=
+O_SRCS :=
+S_SRCS :=
+S_UPPER_SRCS :=
+ASM_SRCS :=
+ASM_UPPER_SRCS :=
+C_SRCS :=
+SECONDARY_FLASH :=
+SECONDARY_LIST :=
+SECONDARY_SIZE :=
+
+CALLGRAPH_DOT := callgraph.dot \
+# Every subdirectory with source files must be described here
+SUBDIRS := \
+HAL/GT911 \
+HAL/LCD \
+HAL/LED \
+LVGL/GUI/lvgl/demos/benchmark \
+LVGL/GUI/lvgl/demos/benchmark/assets \
+LVGL/GUI/lvgl/demos/keypad_encoder \
+LVGL/GUI/lvgl/demos/music \
+LVGL/GUI/lvgl/demos/music/assets \
+LVGL/GUI/lvgl/demos/stress \
+LVGL/GUI/lvgl/demos/stress/assets \
+LVGL/GUI/lvgl/demos/widgets \
+LVGL/GUI/lvgl/demos/widgets/assets \
+LVGL/GUI/lvgl/examples/porting \
+LVGL/GUI/lvgl/src/core \
+LVGL/GUI/lvgl/src/draw \
+LVGL/GUI/lvgl/src/draw/nxp_pxp \
+LVGL/GUI/lvgl/src/draw/nxp_vglite \
+LVGL/GUI/lvgl/src/draw/sdl \
+LVGL/GUI/lvgl/src/draw/stm32_dma2d \
+LVGL/GUI/lvgl/src/draw/sw \
+LVGL/GUI/lvgl/src/extra \
+LVGL/GUI/lvgl/src/extra/layouts/flex \
+LVGL/GUI/lvgl/src/extra/layouts/grid \
+LVGL/GUI/lvgl/src/extra/libs/bmp \
+LVGL/GUI/lvgl/src/extra/libs/ffmpeg \
+LVGL/GUI/lvgl/src/extra/libs/freetype \
+LVGL/GUI/lvgl/src/extra/libs/fsdrv \
+LVGL/GUI/lvgl/src/extra/libs/gif \
+LVGL/GUI/lvgl/src/extra/libs/png \
+LVGL/GUI/lvgl/src/extra/libs/qrcode \
+LVGL/GUI/lvgl/src/extra/libs/rlottie \
+LVGL/GUI/lvgl/src/extra/libs/sjpg \
+LVGL/GUI/lvgl/src/extra/others/gridnav \
+LVGL/GUI/lvgl/src/extra/others/monkey \
+LVGL/GUI/lvgl/src/extra/others/snapshot \
+LVGL/GUI/lvgl/src/extra/themes/basic \
+LVGL/GUI/lvgl/src/extra/themes/default \
+LVGL/GUI/lvgl/src/extra/themes/mono \
+LVGL/GUI/lvgl/src/extra/widgets/animimg \
+LVGL/GUI/lvgl/src/extra/widgets/calendar \
+LVGL/GUI/lvgl/src/extra/widgets/chart \
+LVGL/GUI/lvgl/src/extra/widgets/colorwheel \
+LVGL/GUI/lvgl/src/extra/widgets/imgbtn \
+LVGL/GUI/lvgl/src/extra/widgets/keyboard \
+LVGL/GUI/lvgl/src/extra/widgets/led \
+LVGL/GUI/lvgl/src/extra/widgets/list \
+LVGL/GUI/lvgl/src/extra/widgets/menu \
+LVGL/GUI/lvgl/src/extra/widgets/meter \
+LVGL/GUI/lvgl/src/extra/widgets/msgbox \
+LVGL/GUI/lvgl/src/extra/widgets/span \
+LVGL/GUI/lvgl/src/extra/widgets/spinbox \
+LVGL/GUI/lvgl/src/extra/widgets/spinner \
+LVGL/GUI/lvgl/src/extra/widgets/tabview \
+LVGL/GUI/lvgl/src/extra/widgets/tileview \
+LVGL/GUI/lvgl/src/extra/widgets/win \
+LVGL/GUI/lvgl/src/font \
+LVGL/GUI/lvgl/src/hal \
+LVGL/GUI/lvgl/src/misc \
+LVGL/GUI/lvgl/src/widgets \
+LVGL/GUI_APP \
+SRC/Core \
+SRC/Debug \
+SRC/Peripheral/src \
+SRC/Startup \
+User \
+drivers \
+rtthread \
+rtthread/components/drivers/misc \
+rtthread/components/drivers/serial \
+rtthread/components/finsh \
+rtthread/libcpu/risc-v/common \
+rtthread/src \
